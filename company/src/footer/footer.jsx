@@ -25,7 +25,7 @@ const Footer = () => {
         <div className='footerblock'>
           <h7>Great River Solutions</h7>
           <div className='footer-links'>
-            <a href="https://www.linkedin.com/in/abhyudaya-shukla-2578b6240/" target="_blank" rel="noopener noreferrer"><AiFillLinkedin /></a>
+            <a href="https://www.linkedin.com/company/great-river-web" target="_blank" rel="noopener noreferrer"><AiFillLinkedin /></a>
             <a href="mailto:greatriversolutions@gmail.com" target="_blank" rel="noopener noreferrer"><BiLogoGmail /></a>
           </div>
         </div>
