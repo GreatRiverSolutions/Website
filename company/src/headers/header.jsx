@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom'
-import './Header.css';
-import Logo from '../assets/3.png'
+import './header.css';
+import Logo from '../assets/logo.png'
 
 const Header = () => {
   {/* This makes it so that when the user is at the top of the page the header is transparent */}
